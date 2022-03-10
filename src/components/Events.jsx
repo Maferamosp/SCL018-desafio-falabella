@@ -1,7 +1,6 @@
 import Union from '../img/Union.png'
 import { Context } from "../context/Context";
 import { useContext } from "react";
-import Swal from "sweetalert2";
 
 const Events = ({ eventsData, interestsData, suggestionData }) => {
     const globalContext = useContext(Context);
