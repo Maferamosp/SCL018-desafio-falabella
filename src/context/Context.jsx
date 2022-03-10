@@ -86,5 +86,5 @@ const Provider = ({children}) => {
 
     return <Context.Provider value={props}>{children}</Context.Provider>
 }
- 
+
 export {Context, Provider};

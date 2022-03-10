@@ -9,19 +9,19 @@ import HeaderSecondary from './components/layout_figma_imgs/HeaderSecondary';
 import MenuProfile from './components/layout_figma_imgs/MenuProfile';
 
 const App = () => {
-  return (
-    <div className='container'>
-      <HeaderPrimary/>
-      <HeaderSecondary/>
-      <MenuProfile/>
-        <AsideMenu />
-        <Routes>
-          <Route path="/" element={<Profile />} />
-          <Route path="/basicInformation" element={<BasicInformation />} />
-          <Route path="/addEvent" element={<AddEvent />} />
-        </Routes>
-    </div>
-  );
+    return (
+        <div className='container'>
+            <HeaderPrimary />
+            <HeaderSecondary />
+            <MenuProfile />
+            <AsideMenu />
+            <Routes>
+                <Route path="/" element={<Profile />} />
+                <Route path="/basicInformation" element={<BasicInformation />} />
+                <Route path="/addEvent" element={<AddEvent />} />
+            </Routes>
+        </div>
+    );
 }
 
 export default App;

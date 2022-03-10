@@ -21,7 +21,6 @@ const Events = ({ eventsData, interestsData, suggestionData }) => {
         globalContext.setSuggestion(button);
     };
 
-
     return (
         <main>
             <section className='flex flex-col shadow-am w-full h-563 mr-20 mt-4'>

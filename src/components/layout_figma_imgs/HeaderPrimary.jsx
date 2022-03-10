@@ -2,8 +2,6 @@ import logo_f from '../../img/logo_f.png'
 import searcher from '../../img/searcher.png'
 import menu from '../../img/menu.png'
 import cart from '../../img/cart.png'
-import header_mobile from '../../img/header_mobile.png'
-
 
 const HeaderPrimary = () => {
     return (
