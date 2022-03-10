@@ -1,0 +1,145 @@
+{ "family": [
+    {
+        "id": 1,
+        "name": "MAMÁ"
+        },
+    {
+        "id": 2,
+        "name": "PAPÁ"
+    },
+    {
+        "id": 3,
+        "name": "HERMANA"
+    },
+    {
+        "id": 4,
+        "name": "HERMANO"
+    },
+    {
+        "id": 5,
+        "name": "HIJA"
+    },
+    {
+        "id": 6,
+        "name": "HIJO"
+    },
+    {
+        "id": 7,
+        "name": "POLOLA"
+    },
+    {
+        "id": 8,
+        "name": "POLOLO"
+    },
+    {
+        "id": 9,
+        "name": "OTRO, ¿CUÁL?"
+    }
+],
+
+  "sex": [
+    {
+        "id": 10,
+        "name": "MUJER"
+    },
+    {
+        "id": 11,
+        "name": "HOMBRE"
+    },
+    {
+        "id": 12,
+        "name": "OTRO"
+    }
+
+],
+
+"events": [
+    {
+        "id": 13,
+        "name": "Cumpleaños",
+        "img": "https://user-images.githubusercontent.com/89402238/157529891-834b8679-f486-4bb5-8f48-642381852efa.png"
+        },
+    {
+        "id": 14,
+        "name": "Aniversario",
+        "img": "https://user-images.githubusercontent.com/89402238/157529825-1d971fef-efde-4738-b6dd-e797813049a6.png"
+    },
+    {
+        "id": 15,
+        "name": "Navidad",
+        "img": "https://user-images.githubusercontent.com/89402238/157529959-8000c0ea-c4ba-493e-b58b-781f3a9fa1bf.png"
+    },
+    {
+        "id": 16,
+        "name": "Vacaciones",
+        "img": "https://user-images.githubusercontent.com/89402238/157530014-b3caa9d3-7b7d-4d92-8ab4-24f1b4d99074.png"
+    },
+    {
+        "id": 17,
+        "name": "18 de Sept",
+        "img": "https://user-images.githubusercontent.com/89402238/157553760-06bb924d-0866-4de4-b89c-2345f50529c8.png"
+    },
+    {
+        "id": 18,
+        "name": "Fecha Especial",
+        "img": "https://user-images.githubusercontent.com/89402238/157530108-c62931e9-24af-4a81-a024-aa11001c6210.png"
+    }
+],
+
+  "interests": [
+    {
+        "id": 19,
+        "name": "ROPA"
+    },
+    {
+        "id": 20,
+        "name": "PERFUMES"
+    },
+    {
+        "id": 21,
+        "name": "ZAPATILLAS"
+    },
+    {
+        "id": 22,
+        "name": "JUGUETES"
+    },
+    {
+        "id": 23,
+        "name": "TECNOLOGIA"
+    },
+    {
+        "id": 24,
+        "name": "LIVING"
+    },
+    {
+        "id": 25,
+        "name": "ACCESORIOS"
+    },
+    {
+        "id": 26,
+        "name": "ARTÍCULOS DE BELLEZA"
+    },
+    {
+        "id": 27,
+        "name": "DECOHOGAR"
+    },
+    {
+        "id": 28,
+        "name": "OTRA, ¿CUÁL?"
+    }
+],
+"suggestion": [
+    {
+        "id": 29,
+        "name": "15 días antes"
+    },
+    {
+        "id": 30,
+        "name": "20 días antes"
+    },
+    {
+        "id": 31,
+        "name": "1 mes antes"
+    }
+]
+}
