@@ -16,7 +16,7 @@ const AddEvent = () => {
         </div>
         
     </section>
-     );
+    );
 }
- 
+
 export default AddEvent;

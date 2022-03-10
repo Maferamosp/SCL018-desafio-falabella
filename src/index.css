@@ -40,11 +40,11 @@
 @media (min-width: 1024px) {
     .container {
         display: grid;
-        grid-template-areas: 'header header header header'
-                             'nav nav nav nav'
-                             'welcome welcome welcome welcome'
-                             'aside profile profile profile'
-                             ;
+        grid-template-areas:'header header header header'
+                            'nav nav nav nav'
+                            'welcome welcome welcome welcome'
+                            'aside profile profile profile'
+                            ;
         grid-template-columns: 1fr 1fr 1fr 1fr;
         
     }

@@ -37,14 +37,13 @@ const ProfileList = () => {
 //                 <label className="text text-sm text-rg">Seleccionar todo</label>
 //             </div> */}
             {users.map((item) => (
-                <section className="flex flex-row border border-bc rounded-xs h-20 m-2 mx-8 items-center mb-2">
+                <section className="flex flex-row border border-bc rounded-xs h-20 m-2 mx-8 items-center mb-2" key={item.id}>
 {/* //                     <input
 //                         type="checkbox"
 //                         name="controlled"
 //                         className="ml ml-3 mr-3 w-5 h-5 rounded-xs"
 //                     ></input> */}
                     <div
-                        key={item.id}
                         className="flex flex-row justify-between w-810 mx-5"
                     >
                         <div className="">
